@@ -6,7 +6,7 @@ Firstly created & used on Linux Mint 17.1 XFCE
 
 How to use
 --
-- sudo apt-get install fortune
+- *sudo apt-get install fortune*
 - sudo apt-get install php5-cli
 - create launcher like on the screen below 
 - _chmod +x say-now.php_
