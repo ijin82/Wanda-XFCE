@@ -14,8 +14,9 @@ How to use
 ![launcher](https://github.com/ijin82/Wanda-XFCE/blob/gh-pages/img/screen-20150302-02:20:51-647x414.png?raw=true)
 
 Call fortune
---
+```bash
 ./say-now.php
 ./say-now.php fortune
+```
 
 Look to the source, it's SIMPLE.
