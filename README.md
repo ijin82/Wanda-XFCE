@@ -8,8 +8,8 @@ How to use
 --
 - sudo apt-get install fortune
 - sudo apt-get install php5-cli
-- create launcher like on the screen 
-- chmod +x say-now.php
+- create launcher like on the screen below 
+- ~~chmod +x say-now.php~~
 
 ![launcher](https://github.com/ijin82/Wanda-XFCE/blob/gh-pages/img/screen-20150302-02:20:51-647x414.png?raw=true)
 
