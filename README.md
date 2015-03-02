@@ -2,7 +2,7 @@
 
 Wanda fish like script :)
 
-Firstly created & used on Linux Mint 17.1 XFCE
+Originally created and used on Linux Mint 17.1 XFCE
 
 How to use
 --
